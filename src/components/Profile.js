@@ -20,7 +20,7 @@ export default function Profile(props) {
                         <a href='https://www.linkedin.com/in/sarah-schafer-2b45a5282/'>LinkedIn</a>
                     </p>
                     <p>
-                        <a href={process.env.PUBLIC_URL + '/Resume_Schafer_6-4-2023.pdf'} download>Download Resume</a>
+                        <a href='https://docs.google.com/document/d/1hkFitR8-R5OB60wbIvqRPPiATvIgSIV4/edit?usp=sharing&ouid=112971007461924103965&rtpof=true&sd=true'>Resume</a>
                     </p>
                 </div>
             </div>
