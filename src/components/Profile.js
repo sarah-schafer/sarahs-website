@@ -9,7 +9,7 @@ export default function Profile(props) {
                     <h1>
                         <Link className='internal-link' to="/">Sarah Schafer</Link>
                     </h1>
-                    <img className="img-fluid" src={process.env.PUBLIC_URL + '/img/IMG_3754.JPG'} alt="Portrait  of Sarah Schafer" />
+                    <img className="img-fluid" src={process.env.PUBLIC_URL + '/img/IMG_0356.jpeg'} alt="Portrait  of Sarah Schafer" />
                     <p className='portrait-caption'>
                         University of Washington Student, Informatics (Environmental Studies)
                     </p>
