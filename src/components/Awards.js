@@ -18,7 +18,7 @@ export default function Awards(props) {
                                 </li>
                                 <li>
                                     <h3>Senior Kamiak “Grand Knight” Award, 2021</h3>
-                                    <p>The teachers and staff at my high school award one student each year the "Grand Knight" award, named for the values the award represents: “Knowledge, Nobility, Integrity, Gratitude, Humility, Tenacity, and Service."</p>
+                                    <p>The teachers and staff at my high school award one graduating senior each year the "Grand Knight" award, named for the values the award represents: “Knowledge, Nobility, Integrity, Gratitude, Humility, Tenacity, and Service."</p>
                                 </li>
                                 <li>
                                     <h3>Senior Science Student Award, 2021</h3>

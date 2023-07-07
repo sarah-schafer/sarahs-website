@@ -26,7 +26,6 @@ export default function Academics(props) {
                                 <li>Client Side Development</li>
                                 <li>Informatics Research Methods</li>
                                 <li>Statistics for Social Sciences</li>
-                                <li>Composition: Literature</li>
                                 <li>Introduction to Environmental Studies</li>
                                 <li>Sustainable Choices</li>
                                 <li>Introduction to Women Studies</li>

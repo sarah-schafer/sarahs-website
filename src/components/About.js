@@ -12,7 +12,7 @@ export default function AboutPage(props) {
                     <div className='section welcome'>
                         <h2>Hello!</h2>
                         <p>
-                            Welcome!  My name is Sarah (Sally) Schafer, and I'm an undergraduate student at the University of Washington.  Currently a junior, I am majoring in Informatics and minoring in Environmental Studies.
+                            My name is Sarah (Sally) Schafer, and I'm an undergraduate student at the University of Washington.  Currently a junior, I am majoring in Informatics and minoring in Environmental Studies.
                         </p>
                         <p>
                             In Informatics, I study the intersection of technology and societal values, and learn to design and develop more equitable and just information technology.  A growing field, <a href='https://ischool.uw.edu/programs/informatics'>Informatics</a> has not only taught me valuable technical skills, it has also allowed me to learn about societal impacts of technology.

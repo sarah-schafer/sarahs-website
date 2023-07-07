@@ -44,6 +44,13 @@ export default function WorkService(props) {
                             <ul>
                                 <li>
                                     <h4>ACLU National Advocacy Institute</h4>
+                                    <p>For a week in July 2021, I was fortunate enough to be able to attend the ACLU National Advocacy Institue.  During this educational and empowering conference, I attended workshops and lectures on topics ranging from lobbying, graphic design for advocacy, key rights and justice issues, and more.  This opportunity to learn and collaborate with peers also interested in advocacy has shaped my pursuits in college and future goals.</p>
+                                </li>
+                                <li>
+                                    <h4>Women in Informatics 2022 Hackathon</h4>
+                                    <p>
+                                        In January 2022, I participated in UW Women in Informatics' Annual Hackathon.  Titled "Embracing the New," this opportunity allowed me to develop and receive feedback on an app design.  Over the course of the event, my group used Figma to propose an app design that would help users take care of their houseplants.  You can view our <a href='https://www.figma.com/proto/i2yZDf3kpzcVI9ehxPRKZu/Branching-Out?type=design&node-id=4-826&t=5G0uQcC3AkSJ6z2P-1&scaling=scale-down&page-id=3%3A2174&starting-point-node-id=4%3A826&mode=design'>Figma Prototype</a>.
+                                    </p>
                                 </li>
                             </ul>
                             <Link className='internal-link' to="/">Return to main page</Link>

@@ -14,7 +14,7 @@ export default function Profile(props) {
                         University of Washington Student, Informatics (Environmental Studies)
                     </p>
                     <p>
-                        Email: <a href="mailto:schafer5@uw.edu">schafer5@uw.edu</a>
+                        <a href="mailto:schafer5@uw.edu">schafer5@uw.edu</a>
                     </p>
                     <p>
                         <a href='https://www.linkedin.com/in/sarah-schafer-2b45a5282/'>LinkedIn</a>
