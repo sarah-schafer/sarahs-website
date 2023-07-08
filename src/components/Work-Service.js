@@ -11,7 +11,7 @@ export default function WorkService(props) {
                     <div className='col'>
                         <div className='section work-service'>
                             <h2>Additional Work, Organizations, and Service</h2>
-                            <p>I am fortunate to have had the opportunity to be part of a number of fantastic organizations and volunteer projects that have helped me grow and allowed me to contribute to my community.  In high school, I completed over 120 hours of community service, and so far, over the course of my college career, I have completed over 70 hours of volunteering.  Below are some of these experiences.</p>
+                            <p>I am fortunate to have had the opportunity to be part of a number of fantastic organizations and volunteer projects that have helped me grow and allowed me to contribute to my community.  In high school, I completed over 120 hours of community service, and so far, over the course of my college career, I have completed over 130 hours of volunteering.  Below are some of these experiences.</p>
                             <h3>Positions</h3>
                             <ul>
                                 <li>
