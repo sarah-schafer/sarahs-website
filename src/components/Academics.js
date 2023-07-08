@@ -52,6 +52,9 @@ export default function Academics(props) {
                                 <li>
                                     <em><a href='https://eco-bites.web.app/'>EcoBites</a></em>, final project for INFO 340: Web Development, a web app that acts as a calculator and log of environmental impact of food consumption.
                                 </li>
+                                <li>
+                                    <em><a href='https://drive.google.com/file/d/1F1u02jbEH9IY0_92SnfNj3aV0_elJIVd/view?usp=sharing'>A Manifesto on Environmental Justice</a></em>, final project for GWSS 200: Intro to Women Studies, where we were asked to write a manifesto on an issue we were passionate about, echoing feminists manifesots we read in class.
+                                </li>
                             </ul>
                             <Link className='internal-link' to="/">Return to main page</Link>
                         </div>
