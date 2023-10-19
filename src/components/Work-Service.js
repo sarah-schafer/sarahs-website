@@ -21,7 +21,7 @@ export default function WorkService(props) {
                                 </li>
                                 <li>
                                     <h4>UW Salsa Club Officer</h4>
-                                    <p>Since joining UW Salsa Club in September 2022, I've learned the importance of dance for community.  As an officer since January 2023, I've organized events, facilitated community building activities, and managed the club social media accounts.  In addition, I have also planned and taught club lessons.</p>
+                                    <p>Since joining UW Salsa Club in September 2022, I've learned the importance of dance for community.  As an officer since January 2023, I've organized events, facilitated community building activities, and managed the club social media accounts.  In addition, I have also planned and taught club lessons.  Additionally, I have gained leadership experience through being the group's Co-President since September 2023.</p>
                                 </li>
                                 <li>
                                     <h4><a href='https://clothesforkids.org/'>Clothes for Kids</a> Volunteer</h4>
