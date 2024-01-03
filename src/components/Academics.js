@@ -26,13 +26,19 @@ export default function Academics(props) {
                                 <li>Client Side Development</li>
                                 <li>Informatics Research Methods</li>
                                 <li>Statistics for Social Sciences</li>
+                                <li>Interactive Information Visualizations</li>
+                                <li>Data Justice</li>
                                 <li>Introduction to Environmental Studies</li>
                                 <li>Sustainable Choices</li>
                                 <li>Introduction to Women Studies</li>
+                                <li>Art and Climate Change</li>
                             </ul>
                             <h3>Selected Coursework</h3>
                             <p>Below are projects from a few of my courses of which I am particularly proud.</p>
                             <ul>
+                                <li>
+                                  <em><a href='https://uw.manifoldapp.org/projects/art-and-climate-change-vol-2023-no-schafer'>Finding Our Way Back Forward</a></em>, final project for ART H 309: Art and Climate Change, where we were asked to develop a project relating both to course topics and our interests.  Through this project, I analyzed the importance of dance in exploring connected issues across climate change and technological injustice, and created an embodied performance piece with community members.
+                                </li>
                                 <li>
                                     <em><a href='https://bandhna.shinyapps.io/final-project-ayeshazmo/'>Data Analysis of Enrollment in Washington Schools, 2019-2020</a></em>, final project for INFO 201: Foundational Skills for Data Science.  In addition, for this course, I completed a few semi-structured assignments:
                                     <ul>
@@ -53,7 +59,7 @@ export default function Academics(props) {
                                     <em><a href='https://eco-bites.web.app/'>EcoBites</a></em>, final project for INFO 340: Web Development, a web app that acts as a calculator and log of environmental impact of food consumption.
                                 </li>
                                 <li>
-                                    <em><a href='https://drive.google.com/file/d/1F1u02jbEH9IY0_92SnfNj3aV0_elJIVd/view?usp=sharing'>A Manifesto on Environmental Justice</a></em>, final project for GWSS 200: Intro to Women Studies, where we were asked to write a manifesto on an issue we were passionate about, echoing feminists manifesots we read in class.
+                                    <em><a href='https://drive.google.com/file/d/1F1u02jbEH9IY0_92SnfNj3aV0_elJIVd/view?usp=sharing'>A Manifesto on Environmental Justice</a></em>, final project for GWSS 200: Intro to Women Studies, where we were asked to write a manifesto on an issue we were passionate about, echoing feminists manifestos we read in class.
                                 </li>
                             </ul>
                             <Link className='internal-link' to="/">Return to main page</Link>

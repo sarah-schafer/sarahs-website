@@ -18,10 +18,13 @@ export default function AboutPage(props) {
                             In Informatics, I study the intersection of technology and societal values, and learn to design and develop more equitable and just information technology.  A growing field, <a href='https://ischool.uw.edu/programs/informatics'>Informatics</a> has not only taught me valuable technical skills, it has also allowed me to learn about societal impacts of technology.
                         </p>
                         <p>
-                            Additionally, by minoring in Environmental Studies, I have been able to learn about and actively work for the environment, a topic about which I care deeply. 
+                            Additionally, by minoring in Environmental Studies, I have been able to learn about and actively work for the environment, a topic about which I care deeply.
                         </p>
                         <p>
-                            Though distinct fields, both areas allow me to <em>learn about communities and justice, and develop skills to work towards brighter futures for all.</em>
+                            Similarly, through minoring in Dance, I have been able to understand and embody the ability of dance to connect communities, to tell stories, and to empower.
+                        </p>
+                        <p>
+                            Though distinct fields, all of these areas allow me to <em>learn about communities and justice, and develop skills to work towards brighter futures for all.</em>
                         </p>
                         <p>
                             If working together sounds interesting to you, please reach out!  I'd love to hear from you!
